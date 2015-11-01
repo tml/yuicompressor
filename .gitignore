@@ -13,3 +13,4 @@ build/jar
 build/yuicompressor*.jar
 .project
 .classpath
+target
